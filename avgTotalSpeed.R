@@ -1,3 +1,4 @@
+#Reading The data File
 file <- read.csv(file="trafficData158324.csv",header = TRUE,sep = ",")
 summary(file)
 
